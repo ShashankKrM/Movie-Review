@@ -1,0 +1,28 @@
+body
+{
+	background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(images/background.png);
+	background-position: center;
+	background-size: cover;
+}
+.movie-details
+{
+	margin: 3% 0;
+}
+.left-box
+{
+	color:#fff;
+}
+.movie-img
+{
+	height:350px;
+	box-shadow: -4px 4px 5px 0 #000;
+}
+.casting img
+{
+	height:80px;
+	width: 60px;
+}
+.cast-details
+{
+	color:#fff;
+}
